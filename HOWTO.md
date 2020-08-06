@@ -43,9 +43,9 @@ This document describes the process of adding Tableau workbooks as a Salesforce 
 
 ## Usage ##
 
-### Report Layout ###
+### Tableau Report Layout ###
 
-The reports in Tableau will need to be formatted in a way that compliments the embedding capabilities within this tool. Tableau Desktop offers different layout options available for each report -- `desktop`, `tablet`, and `phone`. If the layout is not configured appropriately, the reports in Salesforce may have scroll bars within each component, they may not show the whole report appropriately, and the report filtering may not be placed in an intuitive/natural position on the report (example below). To fix this, configure the report layout in Tableau to accomodate for the aesthetics in Salesforce.
+The reports in Tableau will need to be formatted in a way that compliments the embedding capabilities within this tool. Tableau Desktop offers different layout options available for each report -- `desktop`, `tablet`, and `phone`. If the layout is not configured appropriately, the reports in Salesforce may have scroll bars within each component, they may not show the whole report appropriately, and the report filtering may not be placed in an intuitive/natural position on the report (example below). To fix this, configure the report layout in Tableau to accommodate for the aesthetics in Salesforce.
 
 ![Home Page Example](./assets/home_page_example.png)
 
